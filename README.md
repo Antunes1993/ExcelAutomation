@@ -1,7 +1,7 @@
 # ExcelAutomation
 Excel Automation - Python Course
 
-#Fonte: Tech with team
+Fonte: Tech with team
 
 # Itens abordados: 
 Exibindo valores de células <br/>
